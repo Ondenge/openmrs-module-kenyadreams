@@ -2,7 +2,7 @@
 The DREAMS (Determined, Resilient, Empowered, AIDS-free, Mentored and Safe) Program
 
 ## Introduction
-A brief introduction about what your project does.
+The DREAMS (Determined, Resilient, Empowered, AIDS-free, Mentored and Safe) partnership is an ambitious public-private partnership aimed at reducing rates of HIV among adolescent girls and young women (AGYW) in the highest HIV burden countries.
 
 ## Prerequisites
 Make sure you have the following installed:
