@@ -1,0 +1,5 @@
+org\openmrs\module\kenyadreams\page\controller\DreamsProviderHomePageController.class
+org\openmrs\module\kenyadreams\page\controller\HomePageController.class
+org\openmrs\module\kenyadreams\web\controller\DREAMSController.class
+org\openmrs\module\kenyadreams\fragment\controller\UsersFragmentController.class
+org\openmrs\module\kenyadreams\page\controller\PatientProfilePageController.class
